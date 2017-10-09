@@ -15,3 +15,5 @@ just a practice showing how to use fragment!
 ### Function three : Use Firebase to Store Image!
 
 choose a image from local photos and upload it to firebase connected to this project!
+
+#### to be continue...
